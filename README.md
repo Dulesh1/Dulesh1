@@ -7,5 +7,5 @@ I'm Dulesh, a Computer Science Engineering student passionate about Development 
 
 - 👀 I’m interested in contributing to open-source projects.
 - 🌱 I’m currently learning advanced DSA techniques and exploring full-stack development.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...@duleshshivakale@gmail.com
